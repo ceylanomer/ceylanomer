@@ -1,6 +1,6 @@
 ### Hi there, I'm Ömer👋
 #### - 🔭 I’m currently working on [Turkiye Finans](https://www.turkiyefinans.com.tr/) as a Expert Software Developer.
-#### - 🔭 I have been working professionally with .net technologies for 3 years.
+#### - 🔭 I have been working professionally with .Net Framework for 3 years.
 #### - 🌱 I’m currently learning .Net Core, Microservice Architecture and related design patterns.
 #### - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ceylanomer/)
 <!--
