@@ -1,6 +1,6 @@
 ### Hi there, I'm Ömer👋
 #### - 🔭 I’m currently working on [Trendyol](https://www.trendyol.com/) as a Software Developer.
-#### - 🔭 I have been working professionally with .Net Framework for 3 years.
+#### - 🔭 I have been working professionally with .Net Framework for 3 years and Java Spring Boot for 2 years.
 #### - 🌱 I’m currently interesting Java,.Net Core, Go, Microservice Architecture and related design patterns.
 #### - To read some posts [Medium](https://medium.com/@ceylanomer)
 #### - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ceylanomer/)
