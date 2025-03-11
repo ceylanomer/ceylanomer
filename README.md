@@ -1,9 +1,16 @@
-### Hi there, I'm Ömer👋
-#### - 🔭 I’m currently working on [Trendyol](https://www.trendyol.com/) as a Senior Software Engineer.
-#### - 🔭 I have been working professionally with .Net Framework, Java Spring Boot and Golang for 7 years.
-#### - 🌱 I’m currently interesting Java,.Net Core, Go, Microservice Architecture, DDD, EDD, TDD, Hexagonal Arch. and related design patterns.
-#### - To read some posts [Medium](https://medium.com/@ceylanomer)
-#### - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ceylanomer/)
+## Hi there, I'm Ömer 👋  
+
+🚀 **Senior Software Engineer at [Trendyol](https://www.trendyol.com/)**  
+💻 Passionate about **Java, Go, Distributed Systems, Microservices, and Software Architecture**  
+
+### 👨‍💻 About Me  
+- **7+ years** of experience in designing and developing **scalable, high-availability distributed systems**.  
+- Enthusiastic about **Microservices, DDD, EDD, TDD, and Hexagonal Architecture**.  
+- Exploring **Cloud Design Patterns, Event-Driven Architectures, and Observability in large-scale systems**.  
+- Writing about **software engineering** on [Medium](https://medium.com/@ceylanomer).  
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ceylanomer/)  
 
 <!--
 **ceylanomer/ceylanomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
