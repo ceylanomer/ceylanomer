@@ -1,6 +1,6 @@
 ## Hi there, I'm Ömer 👋  
 
-🚀 **Senior Software Engineer at [Trendyol](https://www.trendyol.com/)**  
+🚀 **Senior Software Engineer at [TrendyolGO | Uber](https://www.trendyolgo.com/)**  
 💻 Passionate about **Java, Go, Distributed Systems, Microservices, and Software Architecture**  
 
 ### 👨‍💻 About Me  
